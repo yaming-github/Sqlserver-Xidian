@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="152c1573-1304-4128-bbe9-3763ec50ece2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="database" />
+  </component>
+  <component name="ProjectId" id="1XNNuHxkUuLkBPuH5jnuB6TeZ7L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Phase3/java/DBProject.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Buttom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.Buttom" />
+      <module name="database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Buttom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="152c1573-1304-4128-bbe9-3763ec50ece2" name="Default Changelist" comment="" />
+      <created>1580882812693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580882812693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="4" key="#Project_Structure" timestamp="1580884360511">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="4" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1580884360511" />
+    <state x="488" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580882860847">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="488" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1580882860847" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1580931213524">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1580931213524" />
+    <state width="1237" height="130" key="GridCell.Tab.0.bottom" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state width="1237" height="130" key="GridCell.Tab.0.center" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state width="1237" height="130" key="GridCell.Tab.0.left" timestamp="1580948430874">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1580948430874" />
+    <state width="1237" height="130" key="GridCell.Tab.0.right" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state width="1237" height="130" key="GridCell.Tab.1.bottom" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state width="1237" height="130" key="GridCell.Tab.1.center" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state width="1237" height="130" key="GridCell.Tab.1.left" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state width="1237" height="130" key="GridCell.Tab.1.right" timestamp="1580948430875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1580948430875" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1580938177187">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1580938177187" />
+    <state x="321" y="78" width="638" height="534" key="find.popup" timestamp="1580944776074">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="78" width="638" height="534" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1580944776074" />
+  </component>
+</project>
